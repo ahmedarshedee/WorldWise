@@ -1,0 +1,148 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "f967",
+      "cityName": "Fuentes de Onoro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-13T11:06:52.865Z",
+      "notes": "",
+      "position": {
+        "lat": "40.56627024667467",
+        "lng": "-6.811635772612993"
+      }
+    },
+    {
+      "id": "7c77",
+      "cityName": "Benassal",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-13T11:13:07.483Z",
+      "notes": "",
+      "position": {
+        "lat": "40.4169052911415",
+        "lng": "-0.19774582326557824"
+      }
+    },
+    {
+      "id": "d46f",
+      "cityName": "Benassal",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-13T11:13:07.483Z",
+      "notes": "",
+      "position": {
+        "lat": "40.4169052911415",
+        "lng": "-0.19774582326557824"
+      }
+    },
+    {
+      "id": "daa2",
+      "cityName": "Benassal",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-13T11:13:07.483Z",
+      "notes": "",
+      "position": {
+        "lat": "40.4169052911415",
+        "lng": "-0.19774582326557824"
+      }
+    },
+    {
+      "id": "a4ad",
+      "cityName": "Benassal",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-13T11:13:07.483Z",
+      "notes": "",
+      "position": {
+        "lat": "40.4169052911415",
+        "lng": "-0.19774582326557824"
+      }
+    },
+    {
+      "id": "33c8",
+      "cityName": "Villeneuve-sur-Vere",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-06-13T11:18:55.987Z",
+      "notes": "",
+      "position": {
+        "lat": "44.00928521242834",
+        "lng": "2.021386699481487"
+      }
+    },
+    {
+      "id": "06b0",
+      "cityName": "Ivoy-le-Pre",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-06-13T11:18:55.987Z",
+      "notes": "",
+      "position": {
+        "lat": "47.32488433433674",
+        "lng": "2.526830044089903"
+      }
+    },
+    {
+      "id": "7dc3",
+      "cityName": "Trouans",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-06-13T11:22:57.851Z",
+      "notes": "",
+      "position": {
+        "lat": "48.649695757754294",
+        "lng": "4.306554467734279"
+      }
+    },
+    {
+      "id": "5a03",
+      "cityName": "Erbray",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-06-13T11:27:58.271Z",
+      "notes": "",
+      "position": {
+        "lat": "47.66825130649211",
+        "lng": "-1.315475945955389"
+      }
+    }
+  ]
+}
